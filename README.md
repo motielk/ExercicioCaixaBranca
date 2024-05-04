@@ -7,6 +7,7 @@
   <li>Tratamento vazio de exceções: as exceções capturadas não estão sendo tratadas ou registradas de forma adequada.</li>
 </ol>
 <h2>Planilha de Teste Estático</h2>
-![TesteEstatico](https://github.com/motielk/ExercicioCaixaBranca/assets/49123696/2e852fe7-943f-4277-a0b8-c0d604b5cbeb)
+
+![TesteEstatico](https://github.com/motielk/ExercicioCaixaBranca/assets/49123696/e03cd69d-4ad9-41b1-8f54-54896b66c831)
 
 

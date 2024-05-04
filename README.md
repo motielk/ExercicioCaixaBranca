@@ -6,3 +6,7 @@
   <li>Gerenciamento inadequado de recursos: os recursos como Connection, Statement e ResultSet não estão sendo fechados corretamente após o uso.</li>
   <li>Tratamento vazio de exceções: as exceções capturadas não estão sendo tratadas ou registradas de forma adequada.</li>
 </ol>
+<h2>Planilha de Teste Estático</h2>
+![TesteEstatico](https://github.com/motielk/ExercicioCaixaBranca/assets/49123696/2e852fe7-943f-4277-a0b8-c0d604b5cbeb)
+
+

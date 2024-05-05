@@ -1,7 +1,7 @@
 # Exercicio Caixa Branca
 <h2>Descrição</h2>
 <p>
-  O código fornecido é uma classe Java chamada TesteCaixaBranca, que tem o objetivo de verificar um usuário em um banco de dados utilizando JDBC (Java Database Connectivity) para se conectar a um banco de dados MySQL
+  A classe Java chamada TesteCaixaBranca tem como propósito verificar um usuário em um banco de dados. Para isso, utiliza a tecnologia JDBC (Java Database Connectivity) para estabelecer uma conexão com um banco de dados MySQL.
 </p>
 <h2>Tecnologias Usada</h2>
 <ol>

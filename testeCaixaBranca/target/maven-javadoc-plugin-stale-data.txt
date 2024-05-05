@@ -1,0 +1,39 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/muril/Desktop/testeCaixaBranca/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/muril/Desktop/testeCaixaBranca/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'testeCaixaBranca 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'testeCaixaBranca 1.0-SNAPSHOT API'
+com.mycompany.testecaixabranca
+C:\Users\muril\Desktop\testeCaixaBranca\src\main\java = 1712535613671
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\allclasses-index.html = 1714936918403
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\allpackages-index.html = 1714936918406
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\element-list = 1714936918360
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\help-doc.html = 1714936918435
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\index-all.html = 1714936918424
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\index.html = 1714936918430
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\member-search-index.js = 1714936918413
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\module-search-index.js = 1714936918408
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\overview-tree.html = 1714936918392
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\package-search-index.js = 1714936918410
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\search.html = 1714936918427
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\tag-search-index.js = 1714936918414
+C:\Users\muril\Desktop\testeCaixaBranca\target\site\apidocs\type-search-index.js = 1714936918411

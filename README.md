@@ -22,7 +22,7 @@
 
 <h2>Grafo de Fluxo</h2>
 
-![GrafoDeFluxo](https://github.com/motielk/ExercicioCaixaBranca/assets/49123696/b00955bb-870a-42ed-8156-b07462742240)
+![Screenshot 2024-05-05 161806](https://github.com/motielk/ExercicioCaixaBranca/assets/49123696/2d6e4694-7e6f-4483-8a32-465b719d4a9c)
 
 
 <h3>Nodos identificados:</h3>
